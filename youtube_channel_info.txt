@@ -3,3 +3,6 @@
 
 24 News Malayalam | Malayalam | https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png |
 https://www.youtube.com/watch?v=x9PArWDkyYw&list=PLDlHWsTgHBKazz4z_Xe5QFILdm73q86zH
+
+ABC News | English | https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png |
+https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live
