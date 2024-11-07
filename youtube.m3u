@@ -14,6 +14,10 @@
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png" tvg-id="",  1 WMQ
 http://em.21dtv.com/songs/60034165.mkv
 #EXTINF:-2 group-title="Malayalam" tvg-logo="https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png" tvg-id="",  2 JX
-https://ss.rongliren.com/api/video/m3u8?id=11643&admin=1
+http://1244.vod.adultiptv.net/ph59ee497cbc021/play.m3u8
 #EXTINF:-3 group-title="Malayalam" tvg-logo="https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png" tvg-id="",  3 ZC
-https://ss.rongliren.com/api/video/m3u8?id=13470&admin=1
+http://10238.vod.redtraffic.xyz/ph591ce79555407/play.m3u8
+#EXTINF:-4 group-title="Malayalam" tvg-logo="https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png" tvg-id="",  4 东热720P04
+http://10238.vod.redtraffic.xyz/ph591ce79555407/play.m3u8
+#EXTINF:-4 group-title="Malayalam" tvg-logo="https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png" tvg-id="",  5 HEYZO 1530
+https://v.didivod.com/20220817/8BQLHNkF/index.m3u8
